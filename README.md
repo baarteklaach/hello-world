@@ -1,2 +1,2 @@
 # hello-world
-Pierwsza wersja testowa
+Jestem uczniem technikum informatycznego, interesuje się głównie stronami internetowymi. Uczę się regularnie HTML,CSS,JavaScript.
